@@ -2,8 +2,8 @@
 <export version="E">
   <design>
     <source>/home/lukasztuz/dev/hexalight/hexalight-cad/src/controller-pcb/hexalight.kicad_sch</source>
-    <date>sob, 19 lut 2022, 19:20:25</date>
-    <tool>Eeschema (6.0.2)</tool>
+    <date>pon, 28 mar 2022, 22:11:19</date>
+    <tool>Eeschema (6.0.4)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title/>
