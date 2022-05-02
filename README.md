@@ -1,2 +1,3 @@
-# hexalight-cad
-CAD files for the hexalight project
+# lowpolylight-cad
+
+CAD files for the lowpolylight panels and other devices.
