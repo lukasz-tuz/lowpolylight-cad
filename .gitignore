@@ -1,3 +1,4 @@
 src/controller-pcb/hexalight-backups/**
 *.FCStd1
 *.kicad_sch-bak
+*.zip
